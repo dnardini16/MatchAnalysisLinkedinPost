@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="66%" src="https://raw.githubusercontent.com/dnardini16/DataSciencePokemon/main/logo.png"> 
+    <img width="66%" src="https://github.com/dnardini16/MatchAnalysisLinkedinPost/blob/main/sport_logo.png"> 
 </p>
 
 
