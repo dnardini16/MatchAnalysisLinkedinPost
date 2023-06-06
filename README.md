@@ -15,6 +15,14 @@ Artificial Intelligence and Personal Blog [Pulp Learning](https://pulplearning.a
 
 ## Match Analysis & Sport Analytics LinkedIn Posts
 
+* [Calci di Rigore Serie A (2017-2022)](https://www.linkedin.com/posts/davide-nardini_calcio-stats-seriea-activity-7071742547181617152-X2Rp)
+
+* [Fine campionato Serie A 2022-2023](https://www.linkedin.com/posts/davide-nardini_calcio-data-stats-activity-7071384067404873728-mBJo)
+
+* [Pali e Traverse Serie A (2017-2022)](https://www.linkedin.com/posts/davide-nardini_stats-calcio-matchanaltsis-activity-7069932142570463234-6lgC)
+
+* [Percentuale di tiri che diventano Goal Serie A (2017-2022)](https://www.linkedin.com/posts/davide-nardini_seriea-matchanalysis-sportanalytics-activity-7069568196873207809-ci29)
+
 * [Tiri per far Goal Serie A (2017-2022)](https://www.linkedin.com/posts/davide-nardini_calcio-goal-matchanalysis-activity-7068839632909611008-D678)
 
 * [Goal per Partita Serie A (2017-2022)](https://www.linkedin.com/posts/davide-nardini_stats-calcio-matchanalysis-activity-7067748705243734016-tlvG)
