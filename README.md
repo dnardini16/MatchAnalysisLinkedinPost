@@ -15,6 +15,8 @@ Artificial Intelligence and Personal Blog [Pulp Learning](https://pulplearning.a
 
 ## Match Analysis & Sport Analytics LinkedIn Posts
 
+* [Tiri nello specchio Serie A (2017-2022)](https://www.linkedin.com/posts/davide-nardini_calcio-seriea-stats-activity-7072097348503449600-X5uk)
+
 * [Calci di Rigore Serie A (2017-2022)](https://www.linkedin.com/posts/davide-nardini_calcio-stats-seriea-activity-7071742547181617152-X2Rp)
 
 * [Fine campionato Serie A 2022-2023](https://www.linkedin.com/posts/davide-nardini_calcio-data-stats-activity-7071384067404873728-mBJo)
