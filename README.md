@@ -13,7 +13,13 @@ Social Profile [LinkedIn](https://www.linkedin.com/in/davide-nardini).
 
 Artificial Intelligence and Personal Blog [Pulp Learning](https://pulplearning.altervista.org).
 
+[Linktree](https://linktr.ee/davidenardini).
+
 ## Match Analysis & Sport Analytics LinkedIn Posts
+
+* [Top e flop Serie A 2022/2023 per Goal Fatti ed Expected Goal ⚽](https://www.linkedin.com/posts/davide-nardini_possiamo-usare-i-dati-per-dire-chi-ci-ha-activity-7074286762436534272-q50w)
+
+* [Sondaggio Approfondimenti Serie A (2017-2022)](https://www.linkedin.com/posts/davide-nardini_nel-preparare-i-contenuti-per-gli-approfondimenti-activity-7073917987400949760-tAF_)
 
 * [Tiri nello specchio Serie A (2017-2022)](https://www.linkedin.com/posts/davide-nardini_calcio-seriea-stats-activity-7072097348503449600-X5uk)
 
